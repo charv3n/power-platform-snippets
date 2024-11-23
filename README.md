@@ -13,7 +13,6 @@ Here are some of the snippets currently included in this repository:
    - Ideal for financial applications like invoices and reports.
    - **Example Output:** `"One Million Two Hundred Thirty-Four Thousand Five Hundred Sixty-Seven Dollar and Eighty-Nine Cents"`
 
-2. _(Add future snippets here as they are created.)_
 
 ## How to Use
 1. Browse the available snippets in the `Snippets` folder.
