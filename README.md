@@ -8,7 +8,7 @@ This repository serves as a central hub for all the Power Platform snippets I cr
 ## Snippets
 Here are some of the snippets currently included in this repository:
 
-1. **[Number to Words with Currency Formatting](link-to-snippet)**
+1. **[Number to Words with Currency Formatting](https://github.com/charv3n/power-platform-snippets/blob/main/Number-to-Words%20Converter%20for%20Power%20Apps/readme.md)**
    - Converts numeric input into word representation with place values (e.g., "Million," "Thousand") and customizable currency terms.
    - Ideal for financial applications like invoices and reports.
    - **Example Output:** `"One Million Two Hundred Thirty-Four Thousand Five Hundred Sixty-Seven Dollar and Eighty-Nine Cents"`
@@ -26,17 +26,7 @@ Contributions are welcome! If you have ideas for improvements, new snippets, or 
 - Submit a pull request with your changes.
 - Open an issue to discuss new ideas or report problems.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Feedback
 If you find these snippets helpful or have suggestions for improvement, feel free to create an issue or reach out.
 
----
-
-### **About Me**
-Hi, I'm Charven! I'm passionate about creating practical and impactful solutions using Microsoft Power Platform. If you'd like to connect or learn more, feel free to check out my GitHub profile or reach out through the repository's issues page.
-
----
-
-Thank you for exploring **Power Platform Snippets**! I hope these snippets help you build better, faster solutions with Microsoft Power Platform.
